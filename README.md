@@ -24,6 +24,6 @@ For more detail visit https://github.com/alecjacobson/gptoolbox/.
 Some of the lireature this project is based on
 + Ulrike von Luxburg (2007) A Tutorial on Spectral Clustering, Statistics and Computing, 17 (4), 2007.
 + Stella X. Yu, Jianbo Shi (2003) Multiclass Spectral Clustering, Proceedings Ninth IEEE International Conference on Computer Vision
-+ Jianbo Shi and Jitendra Malik (2000) Normalized Cuts and Image Segmentation, IEEE Transactions on Pattern Analysis and Machine Intelligence, VOL. 22, NO. 8,
++ Jianbo Shi and Jitendra Malik (2000) Normalized Cuts and Image Segmentation, IEEE Transactions on Pattern Analysis and Machine Intelligence, VOL. 22, NO. 8
 + Hongyuan Zha \& Xiaofeng He, Chris Ding \& Horst Simon,  Ming Gu (2001) Spectral Relaxation for $K$-means Clustering, Advances in Neural Information Processing Systems 14 (NIPS 2001)
 + Andrew Ng, Michael Jordan, Yair Weiss (2001) On Spectral Clustering: Analysis and an algorithm, Advances in Neural Information Processing Systems 14 (NIPS 2001)
