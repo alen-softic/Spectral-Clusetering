@@ -11,5 +11,9 @@ To instal the app simply go to the 'Apps' window in MATLAB, click 'Install App' 
 
 
 ## Get started
-All of the folders are self-contained and the matlab scripts are exported to html documents as well. For image segmentation oklab colorspace is used. The folder **'gptoolbox'** must be added to path. I found it is siplest to right click on the 'gptoolbox' and select 'Add to path' -> 'Selected folders and subfolders'. For more detail visit https://github.com/alecjacobson/gptoolbox/.
+All of the folders are self-contained and the matlab scripts are exported to html documents as well. For image segmentation oklab colorspace is used. The folder **'gptoolbox'** must be added to path. I found it is siplest to right click on the 'gptoolbox' folder and select 
+
+'Add to path' -> 'Selected folders and subfolders'.
+
+For more detail visit https://github.com/alecjacobson/gptoolbox/.
 
