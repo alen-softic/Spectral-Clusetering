@@ -1,4 +1,4 @@
-# Multiclass Spectral Clusetering and k-means
+# k-means and Multiclass Spectral Clusetering 
 Alen Softic
 
 ## About this project
