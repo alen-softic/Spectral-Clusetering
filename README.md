@@ -27,3 +27,7 @@ Some of the lireature this project is based on
 + Jianbo Shi and Jitendra Malik (2000) Normalized Cuts and Image Segmentation, IEEE Transactions on Pattern Analysis and Machine Intelligence, VOL. 22, NO. 8
 + Hongyuan Zha \& Xiaofeng He, Chris Ding \& Horst Simon,  Ming Gu (2001) Spectral Relaxation for $K$-means Clustering, Advances in Neural Information Processing Systems 14 (NIPS 2001)
 + Andrew Ng, Michael Jordan, Yair Weiss (2001) On Spectral Clustering: Analysis and an algorithm, Advances in Neural Information Processing Systems 14 (NIPS 2001)
+
+
+
+[![name](link to image on GH)](https://drive.google.com/file/d/1_Abkt-k4OCpci_08YfKNR5o_RhSez5Ga/view?usp=share_link)
