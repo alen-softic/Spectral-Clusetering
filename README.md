@@ -16,10 +16,8 @@ To instal the app simply go to the 'Apps' window in MATLAB, click 'Install App' 
 
 ## App Images
 
-<img width="400" alt="S1" src="https://user-images.githubusercontent.com/120649885/208684625-9a503c8d-1661-4d19-84b6-ecfe7ceb6010.png">
-<img width="400" alt="S2" src="https://user-images.githubusercontent.com/120649885/208684633-fb71d301-f2cb-46bd-b169-c6e1ed2add0f.png">
-<img width="400" alt="S3" src="https://user-images.githubusercontent.com/120649885/208684640-cc8ec58e-b110-43f4-a931-95a7858d0b9a.png">
-<img width="400" alt="S4" src="https://user-images.githubusercontent.com/120649885/208684647-f57f5bad-2fd8-4efa-9d38-e0c368b0a20e.png">
+<img width="400" alt="S1" src="https://user-images.githubusercontent.com/120649885/208684625-9a503c8d-1661-4d19-84b6-ecfe7ceb6010.png"> <img width="400" alt="S2" src="https://user-images.githubusercontent.com/120649885/208684633-fb71d301-f2cb-46bd-b169-c6e1ed2add0f.png">
+<img width="400" alt="S3" src="https://user-images.githubusercontent.com/120649885/208684640-cc8ec58e-b110-43f4-a931-95a7858d0b9a.png"> <img width="400" alt="S4" src="https://user-images.githubusercontent.com/120649885/208684647-f57f5bad-2fd8-4efa-9d38-e0c368b0a20e.png">
 
 ## Get started
 All of the folders are self-contained and MATLAB scripts explain the given task. For image segmentation oklab colorspace is used. The folder **'gptoolbox'** must be added to path. I found it siplest to right click on the 'gptoolbox' folder and select 
