@@ -30,4 +30,3 @@ Some of the lireature this project is based on
 
 
 
-[![name](link to image on GH)](https://drive.google.com/file/d/1_Abkt-k4OCpci_08YfKNR5o_RhSez5Ga/view?usp=share_link)
