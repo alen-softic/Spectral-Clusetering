@@ -10,7 +10,7 @@ There are three topics in this project.
  + **Installing the app:** 
 To instal the app simply go to the 'Apps' window in MATLAB, click 'Install App' and select  <br/> 'Multiclass Spectral Clusetering.mlappinstall'.
 3. Image segmentation.
-+ Segmeting our university logo and oliympic rings due to their interesting structure and color.
++ Segmeting our university logo and the oliympic rings due to their interesting structure and color.
 
 ## App Images
 
