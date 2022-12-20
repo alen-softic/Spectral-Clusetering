@@ -8,7 +8,7 @@ There are three topics in this project.
 2. Classification of points in R^2.
  + Using the above methods to classify 1D and 2D data, showing how spectral clusstering may be used to classify highly nonlinear data where most classification methods like LDA and QDA would fail. An app called 'Multiclass Spectral Clusetering' provides a GUI for this purpose. Gaussian kernel is used here as well.
  + **Installing the app:** 
-To instal the app simply go to the 'Apps' window in MATLAB, click 'Install App' and select\\'Multiclass Spectral Clusetering.mlappinstall'.
+To instal the app simply go to the 'Apps' window in MATLAB, click 'Install App' and select\ 'Multiclass Spectral Clusetering.mlappinstall'.
 3. Image segmentation.
 + Segmeting our university logo and oliympic rings due to their interesting structure and color.
 
