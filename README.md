@@ -29,4 +29,5 @@ Some of the lireature this project is based on
 + Andrew Ng, Michael Jordan, Yair Weiss (2001) On Spectral Clustering: Analysis and an algorithm, Advances in Neural Information Processing Systems 14 (NIPS 2001)
 
 
+![Alt text](https://drive.google.com/file/d/1_Abkt-k4OCpci_08YfKNR5o_RhSez5Ga/view?usp=share_link)
 
